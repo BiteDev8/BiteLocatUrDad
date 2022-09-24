@@ -8,7 +8,7 @@ T = "BiteFoundUrDad"
 ASCII_art_1 = pyfiglet.figlet_format(T)
 print(ASCII_art_1)
 init()
-print("by Opale#0001")
+print("")
 print(Fore.GREEN+"")
 input("start ?")
 
